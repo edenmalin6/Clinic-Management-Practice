@@ -1,0 +1,39 @@
+.home-container {
+  margin: 80px;
+}
+.home-container h1, h2 {
+  text-align: center;
+  margin-bottom: 40px;
+}
+.home-container table
+ {
+  border-color: black;
+
+}
+.home-container th,
+td {
+  padding: 10px;
+  text-align: center;
+}
+.home-container tr{
+  background-color: rgb(46, 44, 44);
+}
+.form-container {
+  margin-bottom: 20px;
+}
+.add-student-form {
+  padding: 5px;
+}
+
+.home-container table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+
+.home-container tr:hover {
+  background-color: #5451513d;
+}
+.home-container th {
+  background-color: rgb(28, 73, 169);
+}
